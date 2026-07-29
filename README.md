@@ -3,7 +3,7 @@
 <!--
 -->
 
-## Snake das minhas contribuições
+## Animated Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/max-all/max-all/output/github-contribution-grid-snake-dark.svg">
